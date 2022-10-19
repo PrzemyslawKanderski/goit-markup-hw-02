@@ -7,25 +7,21 @@
   --footer-contacts-color: rgba(255, 255, 255, 0.6);
 }
 .logo1 {
-  width: 145px;
-  height: 31px;
-
   font-family: "Raleway";
 
   font-weight: 700;
   font-size: 26px;
+  line-height: 1.19;
 
   color: var(--blue-fonts-color);
   text-decoration: none;
 }
 .links {
-  width: 135px;
-  height: 16px;
-
   font-family: "Roboto";
 
   font-weight: 500;
   font-size: 14px;
+  line-height: 1.14;
 
   color: var(--grey-fonts-color);
   width: 261px;
@@ -36,13 +32,11 @@
   color: var(--blue-fonts-color);
 }
 .contacts-top {
-  width: 135px;
-  height: 16px;
-
   font-family: "Roboto";
 
   font-weight: 500;
   font-size: 14px;
+  line-height: 1.14;
 
   color: var(--grey-fonts-color);
 }
@@ -54,6 +48,8 @@
   font-family: "Raleway";
 
   font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
 
   color: var(--blue-fonts-color);
   text-decoration: none;
@@ -62,6 +58,8 @@
   font-family: "Roboto";
 
   font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
 
   color: var(--background-color);
 }
@@ -70,28 +68,25 @@
   color: #2196f3;
 }
 .text-bold {
-  width: 322px;
-  height: 36px;
-
   font-family: "Roboto";
 
   font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
 
   color: var(--bold-fonts-color);
 }
 .text {
-  width: 322px;
-  height: 30px;
-
   font-family: "Roboto";
+  font-size: 16px;
+  line-height: 1.875;
 
   color: var(--grey-fonts-color);
 }
 .contacts-footer {
-  width: 111px;
-  height: 24px;
-
   font-family: "Roboto";
+  font-size: 14px;
+  line-height: 1.71;
 }
 .contacts-footer:hover,
 .contacts-footer:focus {
@@ -102,91 +97,61 @@
   background-color: var(--background-color);
 }
 .address {
-  width: 247px;
-  height: 21px;
-
   font-family: "Roboto";
+  font-size: 14px;
+  line-height: 1.71;
+
   color: var(--h1-color);
 }
 h1 {
-  width: 696px;
-  height: 120px;
-  left: 452px;
-  top: 280px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 1;
+  line-height: 1.36;
   color: var(--h1-color);
 }
 h2 {
-  width: 352px;
-  height: 42px;
-  left: 624px;
-  top: 969px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1;
+  line-height: 1.16;
 
   color: var(--bold-fonts-color);
 }
 h3 {
-  width: 270px;
-  height: 16px;
-  left: 515px;
-  top: 774px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
-  line-height: 1;
+  line-height: 1, 18;
   color: var(--bold-fonts-color);
 }
 .list-item1 {
-  width: 270px;
-  height: 75px;
-  left: 215px;
-  top: 800px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 1;
+  line-height: 1.71;
 
   color: var(--grey-fonts-color);
 }
 .list-item2 {
-  width: 72px;
-  height: 19px;
-  left: 314px;
-  top: 1925px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1;
+  line-height: 1.875;
 
   color: var(--bold-fonts-color);
 }
 .list-item3 {
-  width: 147px;
-  height: 19px;
-  left: 577px;
-  top: 1954px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1;
+  line-height: 1.875;
 
   color: var(--grey-fonts-color);
 }
