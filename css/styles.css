@@ -15,7 +15,7 @@
   font-weight: 700;
   font-size: 26px;
 
-  color: var(--grey-fonts-color);
+  color: var(--blue-fonts-color);
   text-decoration: none;
 }
 .links {
@@ -63,7 +63,7 @@
 
   font-weight: 500;
 
-  color: var(--h1-color);
+  color: var(--background-color);
 }
 .buttons:hover,
 .buttons:focus {
@@ -99,13 +99,14 @@
 }
 
 .wrapper {
-  color: var(--background-color);
+  background-color: var(--background-color);
 }
 .address {
   width: 247px;
   height: 21px;
 
   font-family: "Roboto";
+  color: var(--h1-color);
 }
 h1 {
   width: 696px;
@@ -118,6 +119,7 @@ h1 {
   font-weight: 900;
   font-size: 44px;
   line-height: 1;
+  color: var(--h1-color);
 }
 h2 {
   width: 352px;
