@@ -16,7 +16,7 @@
   color: var(--blue-fonts-color);
   text-decoration: none;
 }
-.links {
+a {
   font-family: "Roboto";
 
   font-weight: 500;
@@ -26,9 +26,10 @@
   color: var(--grey-fonts-color);
   width: 261px;
   height: 16px;
+  text-decoration: none;
 }
-.links:hover,
-.links:focus {
+a:hover,
+a:focus {
   color: var(--blue-fonts-color);
 }
 .contacts-top {
@@ -96,10 +97,11 @@
 .wrapper {
   background-color: var(--background-color);
 }
-.address {
+address {
   font-family: "Roboto";
   font-size: 14px;
   line-height: 1.71;
+  font-style: normal;
 
   color: var(--h1-color);
 }
