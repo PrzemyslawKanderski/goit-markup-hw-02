@@ -38,6 +38,7 @@ a:focus {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
+  text-decoration: none;
 
   color: var(--grey-fonts-color);
 }
@@ -88,6 +89,7 @@ a:focus {
   font-family: "Roboto";
   font-size: 14px;
   line-height: 1.71;
+  text-decoration: none;
 }
 .contacts-footer:hover,
 .contacts-footer:focus {
